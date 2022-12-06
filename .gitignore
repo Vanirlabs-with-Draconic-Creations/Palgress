@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/Palgress.log
